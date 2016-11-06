@@ -2356,10 +2356,10 @@
 <XPD:OBJ name="OwnedViews[6]" type="UMLClassView" guid="S6QUOlFsrk2EtV1CZ5s9CgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">444</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">448</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">360</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">90</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">134</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">121</XPD:ATTR>
 <XPD:REF name="Model">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="K51mJODPskCaYN12BEz83QAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="0Z6D5Dvt7UqYs/OSpHx9AwAA">
@@ -2555,7 +2555,7 @@
 <XPD:OBJ name="OwnedViews[9]" type="UMLAssociationView" guid="Ldy/ddTyJk64phZw8KGNAgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">500,144;491,360</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">501,144;494,360</XPD:ATTR>
 <XPD:REF name="Model">hqjNVJAKOEOvR+0sQ58KHwAA</XPD:REF>
 <XPD:REF name="Head">S6QUOlFsrk2EtV1CZ5s9CgAA</XPD:REF>
 <XPD:REF name="Tail">DpvbqYfk3EipyJVHBvAGhAAA</XPD:REF>
@@ -2639,7 +2639,7 @@
 <XPD:OBJ name="OwnedViews[10]" type="UMLAssociationView" guid="vpOYCoMK60ycZyv/gSgzUAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">356,424;444,425</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">356,422;448,421</XPD:ATTR>
 <XPD:REF name="Model">JLNv1gZaG0+AJaR/KYuEnAAA</XPD:REF>
 <XPD:REF name="Head">S6QUOlFsrk2EtV1CZ5s9CgAA</XPD:REF>
 <XPD:REF name="Tail">V7TD+rUeNEuhdJb79JnodgAA</XPD:REF>
@@ -3209,32 +3209,28 @@
 <XPD:REF name="Associations[0]">n5UUMom3VEmoigKfCueGTQAA</XPD:REF>
 <XPD:REF name="Associations[1]">bGtUNxI6Ekae+EtgphnTbgAA</XPD:REF>
 <XPD:REF name="Associations[2]">qTElB44aI0qU+U8f3Hn+oQAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">7</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">6</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="OwJRBi/rzEmbUUOO/0VT+AAA">
 <XPD:ATTR name="Name" type="string">名称</XPD:ATTR>
 <XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="zMliVCrZdki4VE9UhOOzfQAA">
-<XPD:ATTR name="Name" type="string">演员</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">主演</XPD:ATTR>
 <XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="iqL3dE5cc0OaG5HsOLqFIAAA">
-<XPD:ATTR name="Name" type="string">导演</XPD:ATTR>
-<XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="ATe0AuEHQkS9BFpXl/4a3gAA">
+<XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="ATe0AuEHQkS9BFpXl/4a3gAA">
 <XPD:ATTR name="Name" type="string">座位</XPD:ATTR>
 <XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="A0lnvAjmI0++ziUzO34hYgAA">
+<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="A0lnvAjmI0++ziUzO34hYgAA">
 <XPD:ATTR name="Name" type="string">价格</XPD:ATTR>
 <XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="zt7NRQm5hUWp/IoKeqpd9gAA">
+<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="zt7NRQm5hUWp/IoKeqpd9gAA">
 <XPD:ATTR name="Name" type="string">开始时间</XPD:ATTR>
 <XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="ik/EmEz2vkayU6Gr3X01ngAA">
+<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="ik/EmEz2vkayU6Gr3X01ngAA">
 <XPD:ATTR name="Name" type="string">影院位置</XPD:ATTR>
 <XPD:REF name="Owner">KEujZot8Q0etpf6gkIf32gAA</XPD:REF>
 </XPD:OBJ>
